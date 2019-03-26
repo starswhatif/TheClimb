@@ -1,0 +1,126 @@
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: "Open Sans", sans-serif;
+}
+navbar {
+    padding: .8rem;
+}
+.navbar-nav li {
+  padding-right: 20px;
+}
+.nav-link {
+  font-size: 1.1dm !important;
+}
+.carousel-inner img {
+  width: 100%
+  height: 100%;
+}
+.carousel-caption {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.carousel-caption h1 {
+  font-size: 500%
+  text-transform: uppercase;
+  text-shadow: 1px 1px 15px #000;
+}
+.carousel-caption h3 {
+  font-size: 200%;
+  font-weight: 500;
+  text-shadow: 1px 1px 10px #000;
+  padding-bottom: 1rem;
+}
+.btn-primary {
+  background-color: #cce6ff
+  border: 1px solid #1f1f7a
+}
+.btn-primary:hover {
+  background-color: #cce6ff
+  border: 1px solid #1f1f7a
+}
+.jumbotron {
+  padding: 1rem;
+  border-radius: 0;
+}
+.padding {
+  padding-bottom: 2rem;
+}
+.welcome {
+  width: 75%
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+.welcome hr {
+  border-top: 2px solid #b4b4b4;
+  width: 95%
+  margin-top: .3rem;
+  margin-bottom: 1rem;
+}
+.fa-heart {
+  color: #D35A7F
+}
+.fa-star {
+  color: #608B68
+}
+.fa-cloud {
+  color: #9090C2
+}
+.fa-heart, .fa-star, .fa-cloud {
+  font-size: 2em;
+  margin: 1rem;
+}
+.social a {
+  font-size: 4.5em;
+  padding: 3rem;
+}
+.fa-facebook {
+  color: #3b5998;
+  transition: color 0.5s;
+}
+.fa-twitter {
+  color: #00aced;
+  transition: color 0.5s;
+}
+.fa-instagram {
+  color: #517fa4;
+  transition: color 0.5s;
+}
+.fa-youtube {
+  color: #bb0000;
+  transition: color 0.5s;
+}
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-instagram:hover,
+.fa-youtube:hover {
+color: #d5d5d5;
+transition: color 0.5s;
+}
+footer {
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+  padding-top:2rem;
+}
+hr.light {
+  border-top: 1px solid #d5d5d5;
+  width: 75%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
+footer a {
+  color: #d5d5d5;
+}
+hr.light-100 {
+  border-top: 1px solid #d5d5d5;
+  width: 100%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
+
+.imageCarousel{
+  width: 100%;
+}
