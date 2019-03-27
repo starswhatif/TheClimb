@@ -4,6 +4,7 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: "Open Sans", sans-serif;
+  color: #222222
 }
 navbar {
     padding: .8rem;
@@ -49,12 +50,12 @@ navbar {
 .padding {
   padding-bottom: 2rem;
 }
-.welcome {
+.locations {
   width: 75%
   margin: 0 auto;
   padding-top: 2rem;
 }
-.welcome hr {
+.types hr {
   border-top: 2px solid #b4b4b4;
   width: 95%
   margin-top: .3rem;
